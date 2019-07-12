@@ -21,8 +21,8 @@ from slackeventsapi import SlackEventAdapter
 
 from datetime import datetime, timedelta
 
-SLACK_TOKEN = 'xoxb-689166193236-683352570497-TbtZFbAxb2QdBcVdCWnEeGyv'
-SLACK_SIGNING_SECRET = '2d607461bdec72bfb6e7a78f24626a43'
+SLACK_TOKEN = ?
+SLACK_SIGNING_SECRET = ?
 
 
 app = Flask(__name__)
